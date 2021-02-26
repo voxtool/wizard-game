@@ -3,6 +3,7 @@
 
 - This game was created as a workshop assignment from SoftUni
 - The assets belong to SoftUni
+
 2.Additional improvements added by me outside of the spec include:
  
 - implementation of a life system(by default you have 3 lives)
